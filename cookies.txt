@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.adinplay.com	TRUE	/	FALSE	1999999999	__cfduid	d38563bb0d91f36855b7c2d4bd0e6693a1557583754
+.yohoho.io	TRUE	/	FALSE	1999999999	__cfduid	d041048796dcf27e82187a3c8ffb13ebc1557583772
+
